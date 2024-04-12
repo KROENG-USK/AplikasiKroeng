@@ -6,7 +6,7 @@
 - Intergrasi Pinjam Alat di aplikasi
 
 ## Isi Repository :
-- Rest-API-BE (Backend Program : Kotlin)
+- Rest-API-BE (Backend Program : Kotlin *in progress)
 - Flutter-App (Frontend Program : Flutter *on going)
 
 # Programmer :
@@ -14,4 +14,3 @@
 - <a href="https://github.com/networkcrime">Rahmat Maulana (networkcrime)</a>
 - <a href="https://github.com/Israk20">Israk Faradilah (Israk20)</a>
 - <a href="https://github.com/DzakyAlfr">Dzaky Alfitra (DzakyAlfr)</a>
-
